@@ -1,0 +1,9 @@
+name: Python Data Science Blog
+url: http://echavarria.github.io
+description: Python Data Science Blog Covering edx MITx 600 2x and 600 1x
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
